@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+
+# Build/Dist
+build/
+dist/
+*.egg-info/
+*.spec
+
+# PyInstaller
+*.manifest
+*.exe
+
+# Logs/Temp
+*.log
+*.tmp
+terminaltec_log_*.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+driver_backup/
+speed_test_*.tmp
+
