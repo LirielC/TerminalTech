@@ -1,4 +1,4 @@
-# TerminalTec - Ferramenta para Técnicos de Computadores
+# TerminalTech - Ferramenta para Técnicos de Computadores
 
 Uma ferramenta completa em Python para técnicos de computadores que funciona tanto no Windows quanto no Linux.
 
